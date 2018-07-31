@@ -3026,9 +3026,9 @@ map-obj@^1.0.0, map-obj@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/map-obj/-/map-obj-1.0.1.tgz#d933ceb9205d82bdcf4886f6742bdc2b4dea146d"
 
-markdown-pdf@^8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/markdown-pdf/-/markdown-pdf-8.0.0.tgz#ae2b4b87162d7c3a98130312deac4aafffa15ca5"
+markdown-pdf@9.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/markdown-pdf/-/markdown-pdf-9.0.0.tgz#d699f29c3b6c41da4b9a2ec7d09ea8895daef146"
   dependencies:
     commander "^2.2.0"
     duplexer "^0.1.1"
@@ -3038,7 +3038,7 @@ markdown-pdf@^8.0.0:
     remarkable "^1.7.1"
     stream-from-to "^1.4.2"
     through2 "^2.0.0"
-    tmp "0.0.31"
+    tmp "0.0.33"
 
 math-expression-evaluator@^1.2.14:
   version "1.2.17"
@@ -3447,7 +3447,7 @@ os-locale@^2.0.0:
     lcid "^1.0.0"
     mem "^1.1.0"
 
-os-tmpdir@^1.0.0, os-tmpdir@^1.0.1, os-tmpdir@~1.0.1:
+os-tmpdir@^1.0.0, os-tmpdir@^1.0.1, os-tmpdir@~1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
 
@@ -5127,11 +5127,11 @@ tiny-emitter@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/tiny-emitter/-/tiny-emitter-2.0.0.tgz#bad327adb1804b42a231afa741532bd884cd09ad"
 
-tmp@0.0.31:
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/tmp/-/tmp-0.0.31.tgz#8f38ab9438e17315e5dbd8b3657e8bfb277ae4a7"
+tmp@0.0.33:
+  version "0.0.33"
+  resolved "https://registry.yarnpkg.com/tmp/-/tmp-0.0.33.tgz#6d34335889768d21b2bcda0aa277ced3b1bfadf9"
   dependencies:
-    os-tmpdir "~1.0.1"
+    os-tmpdir "~1.0.2"
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
